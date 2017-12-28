@@ -1,6 +1,7 @@
 from urllib import request
 from bs4 import BeautifulSoup
 
+
 class WebCrawler:
     """
     Enables web page scrapping.
